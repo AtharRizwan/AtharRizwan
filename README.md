@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Athar Rizwan.
 - 👀 I’m interested in manga and anime.
-- 🌱 I’m currently learning C.
+- 🛠️ Engaged in Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...
 -                     instagram @m_atharr__
