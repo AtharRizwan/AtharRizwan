@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Athar Rizwan.
+- 👋 Hi, I’m Muhammad Athar.
 - 🛠️ Engaged in Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...
